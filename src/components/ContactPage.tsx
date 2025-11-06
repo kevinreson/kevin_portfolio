@@ -34,7 +34,7 @@ const contactInfo = [
   {
     icon: MapPin,
     label: "Location",
-    value: "Texas, United States",
+    value: "Odesa, Ukraine",
     href: "#"
   },
 ];
