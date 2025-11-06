@@ -22,13 +22,13 @@ const contactInfo = [
   {
     icon: Mail,
     label: "Email",
-    value: "kevinreson@gmail.com",
+    value: "arksa0777@gmail.com",
     href: "#"
   },
   {
     icon: Phone,
     label: "Phone",
-    value: "+1234567890",
+    value: "+380 503429820",
     href: "#"
   },
   {
