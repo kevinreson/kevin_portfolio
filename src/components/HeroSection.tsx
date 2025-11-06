@@ -99,7 +99,7 @@ export const HeroSection = ({ onSectionChange }: HeroSectionProps) => {
             className="group"
           >
             <a
-              href="/RESUME.pdf"
+              href="/resume.pdf"
               download
               target="_blank"
               rel="noopener noreferrer"
