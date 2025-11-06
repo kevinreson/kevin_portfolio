@@ -54,7 +54,7 @@ export const HeroSection = ({ onSectionChange }: HeroSectionProps) => {
             animate={{ scale: 1 }}
             transition={{ duration: 1, type: "spring" as const, stiffness: 100 }}
           >
-            Kevin Reson
+            Arkadii Shypko
           </motion.h1>
         </motion.div>
 
@@ -99,7 +99,7 @@ export const HeroSection = ({ onSectionChange }: HeroSectionProps) => {
             className="group"
           >
             <a
-              href="/PAVITHR_N_UX_RESUME.pdf"
+              href="/RESUME.pdf"
               download
               target="_blank"
               rel="noopener noreferrer"
