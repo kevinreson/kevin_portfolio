@@ -5,7 +5,7 @@ import { ExternalLink, Github, Eye } from "lucide-react";
 const projects = [
   {
     id: 1,
-    title: "Tours & Travel Website – Frontend Interface",
+    title: "Financial infrastructure to grow your revenue",
     description: "Stripe is a leading fintech platform that enables businesses to accept payments, manage subscriptions, and power online transactions globally.",
     image: "/Images/1.png",
     tech: ["Mobile responsive UI", "React Native (optional)", "Touch interaction design", "React", "Node.js"],
@@ -15,7 +15,7 @@ const projects = [
 
   {
     id: 2,
-    title: "Virtual Campus Tour Using Web VR",
+    title: "Pitch is a collaborative presentation platform",
     description: "A virtual reality project that lets users explore a college campus online using 360° images, arrows to move around, and a chatbot for help.",
     image: "/Images/2.png",
     tech: ["Responsive web design", "Mobile SDKs", "Security & encryption", "React","Typescript", "Database"],
@@ -25,7 +25,7 @@ const projects = [
 
   {
     id: 3,
-    title: "Portfolio Website",
+    title: "Innovative smartphone by Apple",
     description: "Pitch is a modern presentation and collaboration tool that helps teams create, design, and share beautiful decks effortlessly in the cloud.",
     image: "/Images/3.png",
     tech: ["React", "Mobile-first design", "Native features for web", "Performance optimization"],
@@ -34,7 +34,7 @@ const projects = [
   },
   {
     id: 4,
-    title: "Portfolio Website",
+    title: "Modern connected healthcare platform",
     description: "Carbon Health is a healthcare company that provides easy access to medical care both online and in-person.",
     image: "/Images/4.png",
     tech: ["Mobile app development","React",  "Telemedicine features", "Security & HIPAA compliance"],
@@ -43,7 +43,7 @@ const projects = [
   },
   {
     id: 5,
-    title: "Portfolio Website",
+    title: "No-code tool for building responsive websites",
     description: "Framer is a powerful web design platform that allows creators to build and publish high-end interactive websites without writing code.",
     image: "/Images/5.png",
     tech: ["Mobile preview", "Responsive design", "Touch & gesture support", "React","Database","Security"],
